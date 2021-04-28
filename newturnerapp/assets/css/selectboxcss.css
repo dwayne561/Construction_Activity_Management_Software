@@ -1,0 +1,72 @@
+div#container {
+    width: 450px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+div#apple {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: solid;
+    border-radius: 10px;
+    padding: 50px;
+    padding-bottom: 30px;
+    background-color: gainsboro;
+}
+div#pear {
+    display: flex;
+    flex-direction: column;
+}
+label {
+    display: flex;
+    justify-content: center;
+}
+input#name {
+    width: 400px;
+}
+button#btnAdd {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    width: 100px;
+}
+div#cherry {
+    display: flex;
+    flex-direction: column;
+}
+select#list {
+
+    text-align: center;
+    font-size: medium;
+}
+div#grape {
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+label.table.table-bordered {
+    text-align: center;
+    font-size: larger;
+    padding: 10px;
+}
+input#name {
+    text-align: center;
+    font-size: medium;
+    padding: 10px;
+}
+div#kiwi {
+    padding: 10px;
+}
+div#mango {
+    padding: 5px;
+    padding-bottom: 10px;
+}
+div#guava {
+    padding: 5px;
+}
+button.submitBtn.len4.btn {
+    background: #286090;
+    color: white;
+    border-color: black;
+}
